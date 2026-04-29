@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="[[https://i.imgflip.com/65efzo.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif](https://media.gifdb.com/animated-angry-man-coding-u40xyqr26qyez70f.gif)"  />
+  <img height="250" src="https://github.com/theAdityaNV5/theAdityaNV5/raw/main/GitHub-logo.gif"  />
 </div>
 
 ###
