@@ -63,9 +63,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Berzanu10/Berzanu10/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github-readme-stats.vercel.app/api/snake?github=Berzanu10&color_dots=%23bfd6f6%2C%238dbdff%2C%2364a1f4%2C%234b91f1%2C%233c7dd9&color_snake=%23333)
 
 ###
 
