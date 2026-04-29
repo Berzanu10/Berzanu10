@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! My name is Berzan and I'm a Software Engineering student & Game Developer, from Türkiye.</h2>
 
 <div align="center">
-  <img height="200" src="https://github.com/theAdityaNV5/theAdityaNV5/raw/main/GitHub-logo.gif" />
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExams2d2wxdnE1OWdoMWlidndqNjBkcDZjZmt3Mmtwb3U3eHNmcWxhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" />
 </div>
 
 <div align="center">
@@ -27,7 +27,6 @@
 
 ### Contact & Socials:
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=berzanu10&logo=discord&label=Discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord" />
   <a href="https://www.instagram.com/berzanu10" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
