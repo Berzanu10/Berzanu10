@@ -5,9 +5,12 @@
 <h2 align="center">Hi 👋! My name is Berzan and I'm a Software Engineering student & Game Developer, from Türkiye.</h2>
 
 
+
 <div align="center">
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExams2d2wxdnE1OWdoMWlidndqNjBkcDZjZmt3Mmtwb3U3eHNmcWxhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" />
 </div>
+
+
 
 
 <div align="center">
@@ -16,7 +19,10 @@
 </div>
 
 
+
 ### Languages and Tools:
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
@@ -33,7 +39,10 @@
 </div>
 
 
+
 ### Contact & Socials:
+
+
 <div align="left">
   <a href="https://www.instagram.com/berzanu10" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
@@ -49,15 +58,15 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/snake?github=Berzanu10&color_dots=%23bfd6f6%2C%238dbdff%2C%2364a1f4%2C%234b91f1%2C%233c7dd9&color_snake=%23333&v=2" alt="Snake animation" />
-</p>
+
 
 ###
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Berzanu10.Berzanu10&"  />
 </div>
+
 
 ###
 
