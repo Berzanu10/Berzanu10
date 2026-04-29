@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://media.gifdb.com/animated-angry-man-coding-u40xyqr26qyez70f.gif"  />
+  <img height="250" src="[https://media.gifdb.com/animated-angry-man-coding-u40xyqr26qyez70f.gif](https://github.com/theAdityaNV5/theAdityaNV5/raw/main/GitHub-logo.gif)"  />
 </div>
 
 ###
