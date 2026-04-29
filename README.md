@@ -1,13 +1,20 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+###
 <h2 align="center">Hi 👋! My name is Berzan and I'm a Software Engineering student & Game Developer, from Türkiye.</h2>
+
 
 <div align="center">
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExams2d2wxdnE1OWdoMWlidndqNjBkcDZjZmt3Mmtwb3U3eHNmcWxhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" />
 </div>
 
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Berzanu10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=Berzanu10&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
+
 
 ### Languages and Tools:
 <div align="left">
@@ -25,6 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
 </div>
 
+
 ### Contact & Socials:
 <div align="left">
   <a href="https://www.instagram.com/berzanu10" target="_blank">
@@ -41,3 +49,10 @@
   </a>
 </div>
 
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Berzanu10.Berzanu10&"  />
+</div>
+
+###
